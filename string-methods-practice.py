@@ -2,7 +2,7 @@
 # 9/18/24
 # Verification Practice
 
-username = input('Please enter your username: ')
+username = input('Please enter your username: ') # I made this at my school! I got vs working on my school computer! 
 
 while True: # I use while loops a lot, it may be a problem
     if len(username) > 24:

@@ -4,7 +4,7 @@
 
 username = input('Please enter your username: ')
 
-while True: # I use while loops a lot
+while True: # I use while loops a lot, it may be a problem
     if len(username) > 24:
         print('Character limit is 24')
         input('Please re-enter your username: ')
